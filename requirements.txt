@@ -1,0 +1,2 @@
+﻿streamlit>=1.33
+pandas>=2.0

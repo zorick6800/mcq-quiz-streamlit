@@ -1,0 +1,4 @@
+﻿[server]
+headless = true
+[theme]
+base = "dark"
